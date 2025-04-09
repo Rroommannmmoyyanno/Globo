@@ -1,12 +1,27 @@
-# React + Vite
+# 🌤️ App del Clima - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación del clima desarrollada con **React** y **Vite**, utilizando la API de OpenWeatherMap.  
+Incluye diseño responsive, búsqueda por ciudad, visualización de datos climáticos y un globo 3D interactivo.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
+- React
+- Vite
+- CSS moderno
+- React Icons
+- react-globe.gl
+- OpenWeatherMap API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Funcionalidades
+- Búsqueda por ciudad
+- Datos de clima actuales (temperatura, humedad, viento, etc.)
+- Animaciones según el clima
+- Cambio de fondo día/noche
+- Globo 3D que reacciona a la búsqueda
+- Indicador de carga mientras se consultan los datos
 
-## Expanding the ESLint configuration
+## ⚙️ En desarrollo
+Estoy trabajando en agregar más funcionalidades y mejoras visuales.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧑‍💻 Sobre mí
+Desarrollador web en formación, con foco en el aprendizaje constante y la creación de proyectos reales.  
+📍 Rosario, Argentina
